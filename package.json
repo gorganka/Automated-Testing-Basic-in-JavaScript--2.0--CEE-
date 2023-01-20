@@ -1,0 +1,22 @@
+{
+  "name": "task-1",
+  "version": "18.13.0",
+  "description": "Initialize package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "task",
+    "homework",
+    "practice",
+    "package",
+    "init"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gorganka/Automated-Testing-Basic-in-JavaScript--2.0--CEE-.git"
+  },
+  "author": "Alona Landsman",
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+NodeJS and Dependency Management
+
+I put here all commands, which used for solving NodeJS practical tasks:
+
+npm init (initialize package.json)
+npm install -g fs-extra (install fs-extra package globally)
+npm install -g fs-extra --save-dev (install fs-extra package globally with --save-dev)
+npm -g list (to view the npm global packages list and their dependencies)
