@@ -52,6 +52,9 @@ myCalc('Hello World!');
 function primeNum (num) {
     if (num <1) {
         console.log("Choose other number.");
+    } else if(num==1 || num==2){
+        console.log("Prime");
+    
     } else if (num%2 == 0) {
         console.log('Not prime');
     } else if (num/3 != num && num%3 == 0) {
